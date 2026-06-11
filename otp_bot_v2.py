@@ -27,7 +27,7 @@ from telegram.ext import (
 # ══════════════════════════════════════════════════════════════
 #  ★ শুধু এই দুইটা change করো ★
 # ══════════════════════════════════════════════════════════════
-BOT_TOKEN = "8609593081:AAFmYML-bbCyEcYaBLKEnn_dtiV4_N2b6lU"
+BOT_TOKEN = "8513071962:AAFLb9stxozuDvWDT1UfUoZgB2KtOKhFhfQ"
 ADMIN_IDS = [7095358778]       # তোমার Telegram user ID
 # ══════════════════════════════════════════════════════════════
 
