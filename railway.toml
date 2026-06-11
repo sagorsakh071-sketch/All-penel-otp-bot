@@ -1,0 +1,7 @@
+[build]
+builder = "nixpacks"
+
+[deploy]
+startComman = "python otp_bot_v2.py"
+restartPolicyType = "on_failure"
+restartPolicyMaxRetries = 5
